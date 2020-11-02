@@ -13,3 +13,12 @@ We just got an Ultimaker S5, it has dual extrusion support and is currently runn
 
 ### Dimension 1200
 This is a very expensive printer to run, it uses ABS and soluble support.
+
+### MarkForged
+This printer has Continuous Fiber Deposition; essentially, it uses a secondary extruder to inlay carbon fiber, kevlar, or other supported fibers into a nylon print to provide reinforcement.
+
+### Form 3
+It's resin. It prints small.
+
+### Projet 2500
+Also resin. More expensive. Prints small but in a bigger build volume. 
