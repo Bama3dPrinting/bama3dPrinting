@@ -1,4 +1,7 @@
-# How To Write Markdown
+Ok, click that pencil button right above here (and a little to the right) so you can edit this file.
+Now that you've done that, when you're ready to see how this will actually look when you're done, click the Preview Changes tab.
+
+# Now, how to write markdown
 
 One # is for big stuff.
 
