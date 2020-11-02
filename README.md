@@ -1,2 +1,2 @@
 # Bama 3D Printing
-### The goal of this society is to centralize the knowledge of 3D printing that is currently distributed throughout the design teams of the University of Alabama. 
+### The goal of this group is to centralize 3D printing knowledge for the design teams at the University of Alabama. 
