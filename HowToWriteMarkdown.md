@@ -1,5 +1,5 @@
-Ok, click that pencil button right above here (and a little to the right) so you can edit this file.
-Now that you've done that, when you're ready to see how this will actually look when you're done, click the Preview Changes tab.
+Ok, click that pencil button right above here (and a little to the right) so you can edit this file (if you're on GitHub.com).
+Now that you've done that, when you're ready to see how this will actually look when you're done, click the Preview Changes tab (this won't work if you're on a local IDE, you'll just have to trust me or open this repository on GitHub.com).
 
 # Now, how to write markdown
 
